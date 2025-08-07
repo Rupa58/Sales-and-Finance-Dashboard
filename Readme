@@ -1,0 +1,72 @@
+📌 Project Overview
+This Power BI dashboard provides a comprehensive analysis of over 5 years of sales and financial data across 5 major product categories. It delivers meaningful business insights that help stakeholders make data-driven decisions.
+
+🎯 Objectives
+Visualize sales trends over time
+
+Identify top-performing categories and products
+
+Analyze cost structures (freight, manufacturing, deductions)
+
+Forecast future sales performance
+
+Enable actionable decisions through interactive filtering
+
+📂 Dataset Highlights
+Feature	Description
+Duration	5+ Years
+Categories	5 Product Categories
+Metrics	Sales, Orders, Gross Profit, Freight Cost, Manufacturing Cost, Forecasts, Deductions (Pre/Post Invoice)
+
+📈 Dashboard Components
+KPI Cards: Total Sales, Gross Profit, Order Count, Net Deductions
+
+Bar Chart: Top 10 Performing Products by Revenue
+
+Line Charts: Sales Trend Over Years, Forecasted Sales
+
+Pie/Donut Chart: Revenue Distribution by Category
+
+Filters: Year, Product Category, Region
+
+💡 Key Insights
+📈 Sales Trend: Consistent annual growth
+
+🏆 Top Category: [Insert category name] leads in revenue
+
+💸 Freight Cost: Notable spikes in specific years
+
+🔮 Forecasting: Predicted 8% growth in next year sales
+
+💼 Business Decisions Enabled
+Marketing focus on top revenue-generating categories
+
+Cost optimization through freight and manufacturing analysis
+
+Strategic inventory planning based on sales forecasts
+
+Better financial control by analyzing deduction patterns
+
+⚙️ Tools Used
+Power BI Desktop (.pbix file)
+
+DAX for calculated measures and KPIs
+
+Interactive filters and slicers for user-driven exploration
+
+🚀 How to Use
+Open the .pbix file in Power BI Desktop
+
+Use slicers to filter by Year, Region, or Category
+
+Hover over visuals for tooltips and deeper insights
+
+Observe forecast projections and KPI cards for quick summaries
+
+🧠 Learnings & Challenges
+Learned to handle large datasets and optimize visuals for performance
+
+Gained advanced skills in DAX, visual storytelling, and Power BI layout design
+
+Ensured dashboard aligns with real business questions and decision-making
+
